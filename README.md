@@ -185,6 +185,6 @@ Student-Graduation-KMeans
 
 ---
 
-**Eprilda Nonifili Zandroto**
+**EprildaZandroto**
 Informatics Engineering Student
 Passionate about Machine Learning, Data Analytics, and Data Visualization
